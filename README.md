@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leejoys
 - 👀 I’m interested in Go practice
 - 🌱 I’m currently learning Go, linux, html, css
-- 💞️ I’m looking to collaborate on some Go projects
+- 💞️ I’m looking to collaborate on some Go, geth, cosmos projects
 - 📫 How to reach me ... around here somewhere or just mail me@gmail
 
 <!---
